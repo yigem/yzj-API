@@ -10,7 +10,7 @@
 
 业务流程：
 
-![image-20230528224711376](C:\Users\bx\AppData\Roaming\Typora\typora-user-images\image-20230528224711376.png) 
+![image](https://github.com/yigem/yzj-API/blob/main/tupian/yewuliucheng.png) 
 
 #### 技术选型
 
@@ -133,9 +133,7 @@ Http 工具类：https://hutool.cn/docs/#/http/Http%E5%AE%A2%E6%88%B7%E7%AB%AF%E
 
 使用如图所示流程：走后端调用
 
-![image-20230604190955256](C:\Users\bx\AppData\Roaming\Typora\typora-user-images\image-20230604190955256.png)
-
-
+![image](https://github.com/yigem/yzj-API/blob/main/tupian/diaoyongjiekou.png) 
 
 流程：
 
@@ -240,7 +238,7 @@ https://dubbo.incubator.apache.org/zh/docs3-v2/java-sdk/quick-start/spring-boot/
 
 **RPC调用模型：**
 
-![image-20230607223641539](C:\Users\bx\AppData\Roaming\Typora\typora-user-images\image-20230607223641539.png)
+![image](https://github.com/yigem/yzj-API/blob/main/tupian/RPCdiaoyong.png) 
 
 建议大家用 Nacos！
 整合 Nacos 注册中心：https://dubbo.apache.org/zh/docs3-v2/java-sdk/reference-manual/registry/nacos/
