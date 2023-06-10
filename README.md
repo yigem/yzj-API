@@ -151,7 +151,7 @@ Http 工具类：https://hutool.cn/docs/#/http/Http%E5%AE%A2%E6%88%B7%E7%AB%AF%E
 
 可以加个 API 网关，如下图所示
 
-![image-20230604191717980](C:\Users\bx\AppData\Roaming\Typora\typora-user-images\image-20230604191717980.png)
+![image](https://github.com/yigem/yzj-API/blob/main/tupian/APIwangguan.png) 
 
 也可以用 AOP，但AOP 切面的缺点：只存在于单个项目中，如果每个团队都要开发自己的模拟接口，那么都要写一个切面。
 
