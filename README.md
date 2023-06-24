@@ -8,7 +8,46 @@
 
 这个不是接口管理平台，接口管理平台是内部自己开发的接口，可以用swagger或knife4j接口文档**来给别人看到**。**API 开发平台是开发给别人用的**
 
-业务流程：
+**功能实现及展示：**
+
+**登录页面：**
+
+![image](https://github.com/yigem/yzj-API/blob/main/tupian/denglu.png) 
+
+**注册页面：**
+
+![image](https://github.com/yigem/yzj-API/blob/main/tupian/zhuce.png) 
+
+**进入主页页面：**
+
+![image](https://github.com/yigem/yzj-API/blob/main/tupian/zhuye.png)
+
+
+**自己开发的接口，通过SDK进行调用**
+
+![image](https://github.com/yigem/yzj-API/blob/main/tupian/zijijiekou.png)
+
+
+调用第三方的接口
+
+**音乐解析-全民K歌接口**（生成链接，在浏览器即可访问）
+
+![image](https://github.com/yigem/yzj-API/blob/main/tupian/yinyue.png)
+
+
+**美女壁纸接口**（生成链接，在浏览器即可访问）
+
+![image](https://github.com/yigem/yzj-API/blob/main/tupian/meinvbizhi.png)
+
+
+**管理员页面，可以实现增添接口，以及接口的发布和上线**
+
+![image](https://github.com/yigem/yzj-API/blob/main/tupian/guanliyuan.png)
+
+
+
+
+**业务流程：**
 
 ![image](https://github.com/yigem/yzj-API/blob/main/tupian/yewuliucheng.png) 
 
