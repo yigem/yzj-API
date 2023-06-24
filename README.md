@@ -10,7 +10,7 @@
 
 业务流程：
 
-![image](https://github.com/yigem/yzj-API/blob/main/tupian/yewuliucheng.png) 
+![image](https://github.com/yigem/yzj-API/raw/main/tupian/yewuliucheng.png) 
 
 #### 技术选型
 
