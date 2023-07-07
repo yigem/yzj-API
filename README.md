@@ -10,6 +10,11 @@
 
 **功能实现及展示：**
 
+http://39.101.74.250:8000
+
+账户：yuzijiang
+密码：123456789
+
 **登录页面：**
 
 ![image](https://github.com/yigem/yzj-API/blob/main/tupian/denglu.png) 
